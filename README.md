@@ -32,7 +32,7 @@ El diseño esta pensado para ser impreso en 3D, para la versión estática es ne
 
 El **tornillo** mantiene el **rotor** contra el **protractor** mediante la **tuerca**, la cual cuenta con un par de canales por los cuales pasar una banda elástica que va sujeta finalmente al **soporte_elastico**. La tensión ejercida por la banda es la suficiente para mantener el **rotor** en su lugar, pero permite que facilmente pueda ser retirado para modificar la posición angular.
 
-![cubo](./Imágenes/cubo.png)
+![cubo](./Imágenes/cubo.PNG)
 El cubo se ensambla como se muestra en la imágen superior. Las piezas se sostienen por la misma fricción de las piezas plásticas.
 
 La fijación del cubo al rotor se realiza con tornillos plásticos M2. La utilización de plástico para toda la construcción intenta minimizar la presencia de materiales ferromagnéticos que puedan afectar las mediciones del magnetómetro.
@@ -49,7 +49,7 @@ En este caso el cubo de calibración se monta en el **rotor_servo** y este a su 
 
 Tanto las **patas** de la versión estática como el **soporte_servo** de la dinámica pueden ser sujetas mediante [clamps](https://www.thingiverse.com/thing:1673030).
 
-![bno](./Imágenes/bno.png)
+![bno](./Imágenes/bno.PNG)
 
 Se adjunta además un soporte impreso (**bno08x_holder**) para una módulo [BNO085 de Adafruit](https://www.adafruit.com/product/4754) y un par tornillo-tuerca (**m5-nut-105**/**m5-screw-95**) para la sujeción del soporte al cubo de calibración. El montaje de la placa al soporte se realiza también con tornillos M2 plásticos.
 
